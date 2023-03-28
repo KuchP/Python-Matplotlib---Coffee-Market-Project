@@ -1,7 +1,7 @@
 
 # Python: Seaborn - Car Market Analysis
 
-Thanks to the Maven Analytics course, I now feel more confident in my ability to create custom and dynamic visualizations that will help me effectively communicate insights and findings to my colleagues and stakeholders.
+Thanks to the Maven Analytics course, now I feel more confident in my ability to create custom and dynamic visualizations that will help me effectively communicate insights and findings to my colleagues and stakeholders.
 
 This project was a great way to reinforce my learning and build my confidence in my ability to create compelling visualizations that effectively communicate complex data. Overall, I am very pleased with the progress I have made and look forward to continuing to develop my skills in this exciting field.
 
