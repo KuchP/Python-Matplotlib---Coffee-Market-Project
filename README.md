@@ -15,7 +15,7 @@ This project was a great way to reinforce my learning and build my confidence in
 
 _Problem statement:_ 
 
-I am seeking detailed information on the global coffee market, including current trends, major players, and pricing dynamics, to identify new opportunities in this rapidly growing industry.
+I am seeking detailed information on the global coffee market, including trends, major players, and pricing dynamics, to identify new opportunities and differances in this rapidly growing industry.
 
 ### Data pre-processing:
 This section describes the pre-processing steps that were applied to the dataset used in this project. The dataset was initially set up without any missing values (NAs) present. However, some small pre-processing was still required to prepare the data for analysis.
